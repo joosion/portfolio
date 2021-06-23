@@ -7,6 +7,8 @@
     border: 0;
     outline: 0;
 }
+.ddots{
+  cursor: pointer;
 body{
 overflow-x: hidden;
 background-color: white;
