@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: 200;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: 300;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: bold;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Semibold.ttf') format('truetype');
+}
+/* SF pro */
+@font-face {
+    font-family: 'AppleSDGothicNeoL00';
+    font-style: normal;
+    src: local('AppleSDGothicNeoL00'),
+        url('AppleSDGothicNeoL.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoR00';
+    font-style: normal;
+    src: local('AppleSDGothicNeoR00'),
+        url('AppleSDGothicNeoR.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoEB00';
+    font-style: normal;
+    src: local('AppleSDGothicNeoEB00'),
+        url('AppleSDGothicNeoEB.ttf') format('truetype');
+}
