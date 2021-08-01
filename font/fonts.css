@@ -39,3 +39,16 @@
     src: local('AppleSDGothicNeoEB00'),
         url('AppleSDGothicNeoEB.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'AppleSDGothicNeoT00';
+    font-style: normal;
+    src: local('AppleSDGothicNeoT00'),
+        url('AppleSDGothicNeoT.ttf') format('truetype');
+}
+/*Apple*/
+@font-face {
+    font-family: 'HanWang ShinSu Medium';
+    font-style: normal;
+    src: local('HanWang ShinSu Medium'),
+        url('HanWang ShinSu Medium.ttf') format('truetype');
+}
