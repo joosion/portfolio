@@ -8,6 +8,9 @@
 body{
     position: relative;
 }
+#m{
+    display: none;
+}
 #fp-nav span{
     display: none;
 }
@@ -585,3 +588,27 @@ body{
     margin-top: 0px;
 }
 /* con4 */
+@media screen and (max-width: 640px){
+#fullpage{
+    display: none;
+}
+#m{
+    display: block;
+    background-color: #5046FF;
+}
+.m_Guidelines{
+    font-size: 20px;
+    font-family: 'AppleSDGothicNeoR00';
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    margin-top: 50%;
+    transform: translateY(-50%);
+    line-height: 40px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.gnb{
+    display: none;
+}
+}
